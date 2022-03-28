@@ -10,13 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Exercise1PAM">
         <activity
-            android:name=".TaskHasil"
-            android:parentActivityName=".Register"
+            android:name=".ActivityLihatData"
+            android:parentActivityName=".Home_Activity"
             android:exported="false" />
         <activity
-            android:name=".Task1"
-            android:parentActivityName=".Register"
+            android:name=".Home_Activity"
+            android:parentActivityName=".MainActivity"
             android:exported="false" />
+        <activity
+            android:name=".TaskHasil"
+            android:exported="false"
+            android:parentActivityName=".Register" />
+        <activity
+            android:name=".Task1"
+            android:exported="false"
+            android:parentActivityName=".Register" />
         <activity
             android:name=".Register"
             android:exported="false" />

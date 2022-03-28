@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_lihat_data.xml" value="0.176" />
         <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
         <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_task1.xml" value="0.27447916666666666" />
         <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activity_task_hasil.xml" value="0.27447916666666666" />
+        <entry key="..\:/Exercise1PAM/app/src/main/res/layout/activitylihatdata.xml" value="0.1334853090172239" />
+        <entry key="..\:/Exercise1PAM/app/src/main/res/layout/home_activity.xml" value="0.1" />
+        <entry key="..\:/Exercise1PAM/app/src/main/res/layout/item_listview.xml" value="0.25" />
         <entry key="..\:/Exercise1PAM/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Exercise1PAM/app/src/main/res/menu/popup_menu.xml" value="0.1962962962962963" />
       </map>
     </option>
   </component>

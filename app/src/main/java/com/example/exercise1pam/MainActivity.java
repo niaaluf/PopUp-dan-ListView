@@ -53,6 +53,9 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else if(TxNama.getText().toString().equals("Nia")&& TxPass.getText().toString().equals("12345")){
                     Toast.makeText(getApplicationContext(), "Login Berhasil !", Toast.LENGTH_SHORT).show();
+
+                    Intent i = new Intent(getApplicationContext(),Home_Activity.class);
+                    startActivity(i);
                 }
                 else {
                     Toast.makeText(getApplicationContext(), "Login Gagal", Toast.LENGTH_SHORT).show();
